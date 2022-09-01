@@ -1,4 +1,4 @@
-// import {UI} from "./UI";
+import {UI} from "./UI";
 import {ShapeAnimation} from "./animation";
 import * as PIXI from 'pixi.js';
 
